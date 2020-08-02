@@ -1,2 +1,1 @@
-# rescue-mission
-a game
+# SupplyMission
